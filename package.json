@@ -1,0 +1,22 @@
+{
+  "name": "hapi-server-example",
+  "version": "1.0.0",
+  "description": "Web server example with Hapi framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bondopangaji/hapi-server-example.git"
+  },
+  "author": "Bondo Pangaji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bondopangaji/hapi-server-example/issues"
+  },
+  "homepage": "https://github.com/bondopangaji/hapi-server-example#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
